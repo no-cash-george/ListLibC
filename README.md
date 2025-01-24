@@ -75,15 +75,15 @@ int main() {
 Compilation and Linking
 
 To compile and link the program with the library, use the following commands:
-	1.	Compile the source code:
+1.	Compile the source code:
 ```
-gcc main.c linked_list.c -o linked_list_program
+	gcc main.c linked_list.c -o linked_list_program
 ```
 
-	2.	Run the program:
-
-./linked_list_program
-
+2.	Run the program:
+```
+	./linked_list_program
+```
 
 
 Error Handling
