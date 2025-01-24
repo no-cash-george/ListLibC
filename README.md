@@ -51,7 +51,7 @@ List Destruction Functions
 Example Usage
 
 Here is an example of how to use the linked list library in a C program:
-
+{
 #include <stdio.h>
 #include "linked_list.h"
 
@@ -71,7 +71,7 @@ int main() {
 
     return 0;
 }
-
+}
 Compilation and Linking
 
 To compile and link the program with the library, use the following commands:
