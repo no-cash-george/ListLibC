@@ -86,9 +86,10 @@ To compile and link the program with the library, use the following commands:
 ```
 
 
-Error Handling
-	•	Memory Allocation Failures: If memory allocation fails during the creation of a node or list, an error message is printed to stdout.
-	•	Empty Lists: The functions for adding nodes assume that the first node of the list exists (i.e., lists are not empty). If no nodes are present, the list creation functions should be used to initialize the list first.
+Error Handling:
+
+•	Memory Allocation Failures: If memory allocation fails during the creation of a node or list, an error message is printed to stdout.
+•	Empty Lists: The functions for adding nodes assume that the first node of the list exists (i.e., lists are not empty). If no nodes are present, the list creation functions should be used to initialize the list first.
 
 License
 
