@@ -1,4 +1,4 @@
-Linked List Library in C
+#Linked List Library in C
 
 This is a C library that implements a basic singly linked list data structure. The library supports four different types of linked lists: integer, character, float, and double. The library includes functions to create lists, add nodes, and destroy lists.
 
